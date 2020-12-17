@@ -1,7 +1,7 @@
 
 {
     "name": "davyin/dyniva_ui_patterns",
-    "description": "admin theme for drupal.",
+    "description": "dyniva_ui_patterns for drupal 8 +.",
     "type": "drupal-custom-module",
     "license": "GPL-2.0-or-later",
     "homepage": "https://github.com/davyin-co/dyniva_ui_patterns",
