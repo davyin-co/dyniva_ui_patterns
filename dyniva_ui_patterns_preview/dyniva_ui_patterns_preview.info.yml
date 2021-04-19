@@ -2,4 +2,4 @@ name: Dyniva Ui Preview
 type: module
 description:  sub mobulde for ui preview
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
